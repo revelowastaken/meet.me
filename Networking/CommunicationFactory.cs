@@ -1,4 +1,10 @@
-﻿using System;
+﻿/// <author>Abdullah Khan</author>
+/// <created>14/10/2021</created>
+/// <summary>
+/// This file is responsible for implementing Singleton Factory pattern for Communicators.
+/// </summary>
+
+using System;
 
 namespace Networking
 {
